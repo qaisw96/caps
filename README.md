@@ -1,7 +1,7 @@
 # caps
 
-## PR : https://github.com/qaisw96/auth-api/pull/3
-## ACTION : https://github.com/qaisw96/auth-api/actions
+## PR : https://github.com/qaisw96/caps/pull/1
+## ACTION : https://github.com/qaisw96/caps/actions
 
 
 ## UML DIAGRAM : 
